@@ -1,16 +1,6 @@
 
-# Hospital Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
-## screenshots
-### Homepage
-![homepage snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
-### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.png?raw=true)
-### Invoice
-![invoice snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/invoice.png?raw=true)
-### Doctor list
-![doctor snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_doctor.png?raw=true)
+# Hospital Management App
+![developer](https://toshkruno.github.io/my-portfolio/)
 ---
 ## Functions
 ### Admin
@@ -76,6 +66,5 @@ https://myaccount.google.com/lesssecureapps
 This project is developed for demo purpose and it's not supposed to be used in real application.
 
 ## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
+Any suggestion and feedback is welcome.
+- [Contact on Linkedin](www.linkedin.com/in/anthony-mukami-624b60223)

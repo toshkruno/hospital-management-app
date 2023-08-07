@@ -109,6 +109,4 @@ urlpatterns +=[
 
 ]
 
-#Developed By : sumit kumar
-#facebook : fb.com/sumit.luv
-#Youtube :youtube.com/lazycoders
+#Developed By : Yagami Light
